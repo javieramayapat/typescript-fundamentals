@@ -1,0 +1,23 @@
+{
+  "name": "typescript-fundamentals",
+  "version": "1.0.0",
+  "description": "🦸‍♂️ Project focused on learning the typescript language based on primitive data types and special data types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javieramayapat/typescript-fundamentals.git"
+  },
+  "keywords": [],
+  "author": "Javier Amaya Patricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javieramayapat/typescript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/javieramayapat/typescript-fundamentals#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
